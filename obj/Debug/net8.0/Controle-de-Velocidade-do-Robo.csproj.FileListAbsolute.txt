@@ -1,0 +1,14 @@
+D:\Vitor\Meus Documentos\Documents\Bootcamps\Bootcamp-Avanade\Desafios\Controle-de-Velocidade-do-Robo\bin\Debug\net8.0\Controle-de-Velocidade-do-Robo.exe
+D:\Vitor\Meus Documentos\Documents\Bootcamps\Bootcamp-Avanade\Desafios\Controle-de-Velocidade-do-Robo\bin\Debug\net8.0\Controle-de-Velocidade-do-Robo.deps.json
+D:\Vitor\Meus Documentos\Documents\Bootcamps\Bootcamp-Avanade\Desafios\Controle-de-Velocidade-do-Robo\bin\Debug\net8.0\Controle-de-Velocidade-do-Robo.runtimeconfig.json
+D:\Vitor\Meus Documentos\Documents\Bootcamps\Bootcamp-Avanade\Desafios\Controle-de-Velocidade-do-Robo\bin\Debug\net8.0\Controle-de-Velocidade-do-Robo.dll
+D:\Vitor\Meus Documentos\Documents\Bootcamps\Bootcamp-Avanade\Desafios\Controle-de-Velocidade-do-Robo\bin\Debug\net8.0\Controle-de-Velocidade-do-Robo.pdb
+D:\Vitor\Meus Documentos\Documents\Bootcamps\Bootcamp-Avanade\Desafios\Controle-de-Velocidade-do-Robo\obj\Debug\net8.0\Controle-de-Velocidade-do-Robo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vitor\Meus Documentos\Documents\Bootcamps\Bootcamp-Avanade\Desafios\Controle-de-Velocidade-do-Robo\obj\Debug\net8.0\Controle-de-Velocidade-do-Robo.AssemblyInfoInputs.cache
+D:\Vitor\Meus Documentos\Documents\Bootcamps\Bootcamp-Avanade\Desafios\Controle-de-Velocidade-do-Robo\obj\Debug\net8.0\Controle-de-Velocidade-do-Robo.AssemblyInfo.cs
+D:\Vitor\Meus Documentos\Documents\Bootcamps\Bootcamp-Avanade\Desafios\Controle-de-Velocidade-do-Robo\obj\Debug\net8.0\Controle-de-Velocidade-do-Robo.csproj.CoreCompileInputs.cache
+D:\Vitor\Meus Documentos\Documents\Bootcamps\Bootcamp-Avanade\Desafios\Controle-de-Velocidade-do-Robo\obj\Debug\net8.0\Controle-de-Velocidade-do-Robo.dll
+D:\Vitor\Meus Documentos\Documents\Bootcamps\Bootcamp-Avanade\Desafios\Controle-de-Velocidade-do-Robo\obj\Debug\net8.0\refint\Controle-de-Velocidade-do-Robo.dll
+D:\Vitor\Meus Documentos\Documents\Bootcamps\Bootcamp-Avanade\Desafios\Controle-de-Velocidade-do-Robo\obj\Debug\net8.0\Controle-de-Velocidade-do-Robo.pdb
+D:\Vitor\Meus Documentos\Documents\Bootcamps\Bootcamp-Avanade\Desafios\Controle-de-Velocidade-do-Robo\obj\Debug\net8.0\Controle-de-Velocidade-do-Robo.genruntimeconfig.cache
+D:\Vitor\Meus Documentos\Documents\Bootcamps\Bootcamp-Avanade\Desafios\Controle-de-Velocidade-do-Robo\obj\Debug\net8.0\ref\Controle-de-Velocidade-do-Robo.dll
